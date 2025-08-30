@@ -1,0 +1,1 @@
+{"PackageProperties": {"PackageID":"linus.asmint.adll","PacmanID":"asm-interpeter","PackageName":"Assembly Interpeter","PackageDescription":"An assembly Interpeter","PackageVersion":"1.0","Author":"linus","License":"linus","Tags": ["coding"],"Dependencies": ["Interpeter","PluginManager"]},"PackageContents": {"main":["interpeter"]}}
